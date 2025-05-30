@@ -2,6 +2,7 @@
   <a href="https://github.com/JMU-Underwater/Underwater-Vehicle-Electrical-Control-System"><img src="./img/image.png" alt="logo"></a>
   <a href="https://github.com/JMU-Underwater/Underwater-Vehicle-Electrical-Control-System"><h1>Underwater Vehicle Electrical Control System</h1></a>
 </div>
+
 [ 中文 | [English](README_EN.md) ]
 
 ## 项目介绍
